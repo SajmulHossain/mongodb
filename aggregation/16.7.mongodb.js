@@ -2,6 +2,8 @@
  * *$facet
  */
 
+// ***** multi pipeline ***** \\
+
 use("practice");
 
 db.test.aggregate([
